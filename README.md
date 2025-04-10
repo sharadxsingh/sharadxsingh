@@ -27,5 +27,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232B2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
 
 [![](https://visitcount.itsvg.in/api?id=ChaitanyaD48&icon=0&color=0)](https://visitcount.itsvg.in)
