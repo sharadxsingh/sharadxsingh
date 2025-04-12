@@ -4,7 +4,7 @@
 - Full Stack Web Developer <br>
 -  Always learning and exploring new technologies<br>
 -  I’m looking forward to collaborate on open source projects<br>
--  Love dinosaurs.<br>
+-  Also I love dinosaurs.<br>
 
 
 ## 🌐 Socials:
