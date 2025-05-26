@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I'm Sharad Singh</h1>
+<h1 align="center">Hi! 👋, I'm Sharad</h1>
 
 ## 💫 About Me:
 - Full Stack Web Developer <br>
